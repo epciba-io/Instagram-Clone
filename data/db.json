@@ -1,0 +1,107 @@
+{
+  "post": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "profilePic": "/src/assets/sunrise-profile.jpg",
+      "postImage": "/src/assets/sunrise-post.jpg",
+      "caption": "Enjoying the beautiful sunset 🌅",
+      "likes": 245,
+      "comments": 32,
+      "location": "Colombo",
+      "time": "2 hours ago",
+      "isLiked": false
+    },
+    {
+      "id": "2",
+      "username": "emma",
+      "profilePic": "/src/assets/coffee-profile.jpg",
+      "postImage": "/src/assets/cofee-post.jpg",
+      "caption": "Coffee time ☕",
+      "likes": 532,
+      "comments": 41,
+      "location": "Kandy",
+      "time": "5 hours ago",
+      "isLiked": true
+    },
+    {
+      "id": "3",
+      "username": "michael",
+      "profilePic": "/src/assets/week-profile.jpg",
+      "postImage": "/src/assets/week-post.jpg",
+      "caption": "Weekend vibes 😍",
+      "likes": 876,
+      "comments": 76,
+      "location": "Jaffna",
+      "time": "1 day ago",
+      "isLiked": false
+    },
+    {
+      "id": "4",
+      "username": "sophia",
+      "profilePic": "/src/assets/nuwa-profile.jpg",
+      "postImage": "/src/assets/nuwaeliya-post.jpg",
+      "caption": "Nature is amazing 🌿",
+      "likes": 1230,
+      "comments": 104,
+      "location": "Nuwara Eliya",
+      "time": "2 days ago",
+      "isLiked": true
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "username": "sample 1",
+    "profilePic": "/src/assets/s2.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "profilePic": "/src/assets/sunrise-profile.jpg"
+    },
+    {
+      "id": "2",
+      "username": "emma",
+      "profilePic": "/src/assets/coffee-profile.jpg"
+    },
+    {
+      "id": "3",
+      "username": "michael",
+      "profilePic": "/src/assets/week-profile.jpg"
+    },
+    {
+      "id": "4",
+      "username": "sophia",
+      "profilePic": "/src/assets/nuwa-profile.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "profilePic": "/src/assets/s3.png",
+      "postImage": "/src/assets/p1.jpg"
+    },
+    {
+      "id": "2",
+      "username": "emma",
+      "profilePic": "/src/assets/coffee-profile.jpg",
+      "postImage": "/src/assets/p2.jpg"
+    },
+    {
+      "id": "3",
+      "username": "michael",
+      "profilePic": "/src/assets/s2.jpg",
+      "postImage": "/src/assets/p3.jpg"
+    },
+    {
+      "id": "4",
+      "username": "sophia",
+      "profilePic": "/src/assets/p4.jpg",
+      "postImage": "/src/assets/sunrise-post.jpg"
+    }
+  ],
+  "followers": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
